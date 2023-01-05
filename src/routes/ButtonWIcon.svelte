@@ -8,7 +8,7 @@
 	}
 </script>
 
-<button class="button is-{style} is-outlined is-responsive is-large" on:click={redirect}
+<button class="button is-{style} is-responsive is-large" on:click={redirect}
 	>{@html icon} &nbsp; {text}</button
 >
 
