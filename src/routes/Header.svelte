@@ -5,7 +5,7 @@
 <div style="width: 100vw; height: 90vh;" />
 <header>
 	<h1>Olá</h1>
-	<h3>Eu sou Leonardo Bagi, um mero menino de 14 anos.</h3>
+	<h3>Eu sou Leonardo Bagi, um mero menino de 15 anos.</h3>
 	<div class="btn-manager">
 		<ButtonWIcon text="Twitter" style="link" icon="<i class='fa-brands fa-twitter'></i>" />
 		<ButtonWIcon text="Instagram" style="danger" icon="<i class='fa-brands fa-instagram'></i>" />
